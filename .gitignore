@@ -1,0 +1,6 @@
+
+.env
+__pycache__
+images
+images_2
+data_log_server.json
